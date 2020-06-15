@@ -1,7 +1,9 @@
 
 const notes = require('./notes.js')
 
-console.log(notes)
+const notesOutput = notes()
+
+console.log(notesOutput)
 
 // const sumFunction = require('./utils.js') 
 
