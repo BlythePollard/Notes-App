@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlythePollard/Notes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlythePollard/Notes-App/issues"
+  },
+  "homepage": "https://github.com/BlythePollard/Notes-App#readme",
+  "dependencies": {
+    "validator": "^13.1.1"
+  }
+}
